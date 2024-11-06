@@ -45,6 +45,6 @@ Este proyecto es una **App turistica autogestionable con cotizaciones personaliz
 
 Puedes acceder al repositorio del proyecto en GitHub en el siguiente enlace:
 
-[https://github.com/tu_usuario/SM2_EXAMEN_PRACTICO](https://github.com/tu_usuario/SM2_EXAMEN_PRACTICO)
+[https://github.com/anthonycs4/SM2_EXAMEN_PRACTICO.git)
 
 
